@@ -13,3 +13,5 @@ Now that we understand the “why,” we can think about where this concept can 
 
 # Diagram illustration
 Below is a simple explanation of how SignalR facilitates communication in a live chat scenario involving three individuals.
+
+![SignalRExplanation](https://github.com/user-attachments/assets/116218b8-3cc9-4ac8-b11e-e8d9ef9de41e)
