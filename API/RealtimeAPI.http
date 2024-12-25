@@ -1,0 +1,6 @@
+@RealtimeAPI_HostAddress = http://localhost:5116
+
+GET {{RealtimeAPI_HostAddress}}/Test/
+Accept: application/json
+
+###

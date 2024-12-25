@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtimeAPI", "RealtimeAPI.csproj", "{9951D524-E84A-43BF-ADC8-8BEA3E1BAAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9951D524-E84A-43BF-ADC8-8BEA3E1BAAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9951D524-E84A-43BF-ADC8-8BEA3E1BAAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9951D524-E84A-43BF-ADC8-8BEA3E1BAAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9951D524-E84A-43BF-ADC8-8BEA3E1BAAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D8CDEF-5496-4E6D-99A7-C98E000D4FD6}
+	EndGlobalSection
+EndGlobal
