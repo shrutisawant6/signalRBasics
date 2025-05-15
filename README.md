@@ -1,6 +1,6 @@
 # Basics of SignalR 📡
 
-At first, SignalR(**Signal** in **R**eal-time) might sound like a complex technical term, but once you grasp the basics, you'll see it’s simpler than it seems.
+At first, SignalR(**Signal** in **R**eal-time) might sound like a complex technical term, but once you grasp the basics, you'll see it’s simpler than it seems. 
 
 ### Why SignalR?
 In typical client-server communication (e.g., HTTP requests), the connection is stateless—meaning each request operates independently, with no memory of previous interactions. For example, when a client (_not your company’s client, but any user accessing the URL_ 🤭) makes an HTTP request to a server to fetch data, the server doesn’t retain any context from earlier communications. However this can be enabled using additional mechanisms like cookies, sessions, or tokens.
